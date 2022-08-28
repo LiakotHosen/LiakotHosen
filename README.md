@@ -4,7 +4,7 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fraw.githubusercontent.com%2Fkvssankar%2Fkvssankar%2Fmain%2Fprogrammer.gif&imgrefurl=https%3A%2F%2Fgithub.com%2Fkvssankar%2Fkvssankar&tbnid=zhjSEq0Xd_DH7M&vet=12ahUKEwivpKiU1On5AhWmHrcAHUNZB04QMygOegUIARCcAg..i&docid=dSGu_Re_c_e-lM&w=680&h=428&q=animated%20coding%20gif&hl=en&ved=2ahUKEwivpKiU1On5AhWmHrcAHUNZB04QMygOegUIARCcAg">
+<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liakothosen" alt="liakothosen" /></a> </p>
 
