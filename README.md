@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **mdliakotbsmrstu143@gmail.com and https://www.linkedin.com/in/liakot-hosen/**
 
-- 📄 Know about my experiences [https://liakot.bitbytenetwork.com/](https://liakot.bitbytenetwork.com/)
+- 📄 Know about my experiences [https://liakot.bitbytenetwork.com/](https://liakot.bitbytenetwork.com/) and https://www.linkedin.com/in/liakot-hosen/
 
 - ⚡ Fun fact **Jocks**
 
