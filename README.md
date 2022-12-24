@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **HTML,Css,Talwind css,JavaScript,React js**
 
-- 📫 How to reach me **mdliakotbsmrstu143@gmail.com**
+- 📫 How to reach me **mdliakotbsmrstu143@gmail.com and https://www.linkedin.com/in/liakot-hosen/**
 
 - 📄 Know about my experiences [https://liakot.bitbytenetwork.com/](https://liakot.bitbytenetwork.com/)
 
