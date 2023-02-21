@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [https://bitbytenetwork.com/](https://bitbytenetwork.com/)
 
-- 💬 Ask me about **HTML,Css,Talwind css,JavaScript,React js**
+- 💬 Ask me about **HTML,CSS,Talwind css,JavaScript,React js,Python,Django,DBMS, SQL, Machine Learning, cyberSecurity**
 
 - 📫 How to reach me **mdliakotbsmrstu143@gmail.com and https://www.linkedin.com/in/liakot-hosen/**
 
@@ -26,7 +26,7 @@
 
 - ⚡ Fun fact **Jocks**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/liakot-hosen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="liakot-hosen" height="30" width="40" /></a>
 <a href="https://fb.com/liakot76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="liakot76" height="30" width="40" /></a>
