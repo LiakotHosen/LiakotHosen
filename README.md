@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [BitByte Network](https://liakot.bitbytenetwork.com/)
 
-- 🌱 I’m currently learning **React js, Django**
+- 🌱 I’m currently working and learning **React js, Django, Cyber Security**
 
 - 👨‍💻 All of my projects are available at [https://liakot.bitbytenetwork.com/](https://liakot.bitbytenetwork.com/)
 
