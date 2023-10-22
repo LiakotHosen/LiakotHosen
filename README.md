@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Md. Liakot Matubber</h1>
-<h3 align="center">A passionate Software developer from Bangladesh</h3>
+<h3 align="center">A passionate Cyber Security Engineer and Python developer from Bangladesh</h3>
 
 
 
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [BitByte Network](https://liakot.bitbytenetwork.com/)
+- 🔭 I’m currently working on HMBD Foundation as an IT Officer and also [BitByte Network](https://liakot.bitbytenetwork.com/)
 
 - 🌱 I’m currently working and learning **React js, Django, Cyber Security**
 
